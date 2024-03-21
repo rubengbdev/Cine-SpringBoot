@@ -1,4 +1,4 @@
-# cine-spring-boot
+# Un cine con Spring Boot!
 ## Repositorio de Spring Boot para una API REST de Cine
 
 ### Características principales:
